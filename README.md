@@ -9,3 +9,5 @@ The gold medal is awarded for score greater than or equal to 10.
 Silver for score greater than or equal to 5.
 Bronze for score greater than or equal to 3.
 No medal for 0 - 2.
+
+A demo: https://www.youtube.com/watch?v=WW5Vj4fNR8o
